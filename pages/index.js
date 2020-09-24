@@ -8,6 +8,8 @@ export default function Home() {
         <title>Welcome to Users Blog</title>
       </Head>
       <Link href="/users">Go to all users</Link>
+      <br />
+      <Link href="/posts">Go to all Posts</Link>
     </div>
   )
 }
